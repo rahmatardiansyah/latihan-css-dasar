@@ -1,0 +1,9 @@
+.container{
+  width: 600px;
+  height: 300px;
+  margin: 20px auto;
+  color: 0;
+  color: rgb(170, 170, 170);
+  text-decoration: rgb(red, green, blue);
+  border-radius: 30px;
+}

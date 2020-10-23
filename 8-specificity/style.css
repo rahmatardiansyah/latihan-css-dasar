@@ -1,0 +1,8 @@
+ul#sarapan li{
+  color: green;
+}
+
+/* li yang class nya favorit di dalam ul yang id nya sarapan */
+ul#sarapan li.favorit{
+  color: red;
+}

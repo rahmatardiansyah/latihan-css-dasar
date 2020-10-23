@@ -1,0 +1,12 @@
+h1{
+  font-size: 150px;
+  color: #8BDD0A;
+  text-transform: capitalize;
+}
+p{
+  text-align: justify;
+  word-spacing: 5px;
+}
+a{
+  text-decoration: none;
+}
